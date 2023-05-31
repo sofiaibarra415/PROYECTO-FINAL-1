@@ -27,7 +27,7 @@ const ContactoPage = (props) => {
             </form>
         </div>
         <div class="datos">
-            <h2>Otras vias de comunicacio</h2>
+            <h2>Otras vias de comunicacion</h2>
             <p>Tambien puede contactarse con nosotros usando los siguientes medios</p>
             <ul>
                 <li><img src="img/instagram.png" alt=""/></li>
